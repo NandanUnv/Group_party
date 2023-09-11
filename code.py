@@ -1,7 +1,7 @@
 # Enter your friend names using comma
 import random as ra
 
-n = int(input("no.of frnds to party:"))
+n = int(input("no.of friends to party:"))
 li = input("Enter your friends name:")
 g = li.split(',')
 p = input("had you dinner?(y/n):")
