@@ -1,4 +1,4 @@
-
+# Enter your friend names using comma
 import random as ra
 
 n = int(input("no.of frnds to party:"))
